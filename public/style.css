@@ -1,0 +1,15 @@
+body{
+  background-color: pink;
+
+}
+
+h1 {
+  font-family: arial;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  margin-left: 50px;
+
+}
